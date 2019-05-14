@@ -1,4 +1,2 @@
 # gitskills
-创建一个分支
-加一句话
-add a word in dev
+这个是张雨青的分支
